@@ -60,7 +60,7 @@ const iconMap = {
         >
           <h2 className="text-3xl md:text-4xl font-bold text-slate-100 mb-4 flex items-center gap-4">
             <span className="text-teal-400 font-mono text-xl">01.</span>
-            About Me
+            Skills
             <div className="h-px bg-slate-700 flex-grow ml-4 max-w-xs"></div>
           </h2>
         </motion.div>
